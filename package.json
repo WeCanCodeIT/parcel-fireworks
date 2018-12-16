@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "dependencies": {
-    "fireworks-canvas": "^2.3.1"
-  },
+  "dependencies": {},
   "author": "Kyle McKee <mckee.kyle@gmail.com>"
 }
