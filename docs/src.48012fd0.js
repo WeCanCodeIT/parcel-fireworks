@@ -8,4 +8,4 @@ var t;!function(i,s){"object"==typeof exports&&"undefined"!=typeof module?module
 },{"fireworks-canvas":"UdCc","./main.css":"Sr7R"}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("./main"));function u(e){return e&&e.__esModule?e:{default:e}}(0,e.default)();
 },{"./main":"epB2"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.48012fd0.map
+//# sourceMappingURL=parcel-fireworks/src.48012fd0.map
