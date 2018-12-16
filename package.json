@@ -9,7 +9,7 @@
   "author": "Kyle McKee <mckee.kyle@gmail.com>",
   "scripts": {
     "dev": "parcel src/index.html -d docs",
-    "build": "parcel build src/index.html -d docs --public-url ./parcel-fireworks"
+    "build": "parcel build src/index.html -d docs --public-url ./"
   },
   "devDependencies": {
     "parcel-bundler": "^1.10.3"
